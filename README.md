@@ -61,8 +61,6 @@ LuxBorrow_LREC2026/
 │   ├── patterns_with_examples.json      ← compiled morphological patterns
 │   ├── loanword_synonyms_unique.json    ← loanword–native synonym pairs
 │   └── loanword_synonym_pairs.csv
-├── Figures/                             ← output: paper figures (PDF/PNG)
-├── Tables/                              ← output: LaTeX tables
 ├── data/
 │   ├── rtl_raw/                         ← (not distributed) RTL article JSON
 │   └── processed/v1/                    ← pipeline outputs
