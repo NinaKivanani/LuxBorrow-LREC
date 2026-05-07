@@ -29,6 +29,10 @@ donor for adapted borrowings (~97–99% per period).
 
 ```
 LuxBorrow_LREC2026/
+├── loanwords/                # Loanword detection
+│   ├── find_loanwords.py              
+│   └── utils.py
+│   └── data/
 ├── scripts/                   # Full analysis pipeline (23 scripts)
 │   ├── 00_create_clean_json.py
 │   ├── 00b_convert_pairs_csv_to_json.py
@@ -71,6 +75,7 @@ LuxBorrow_LREC2026/
 
 | Script | Section / RQ | Description |
 |--------|-------------|-------------|
+| `loanwords/find_loanwords.py` | §3.3 Loanword | Detect loanwords |
 | `00_create_clean_json.py` | §3.1 Dataset | Initial JSON cleaning and deduplication |
 | `00b_convert_pairs_csv_to_json.py` | §3.3 Loanword | Convert loanword–synonym CSV pairs to JSON |
 | `01_freeze_manifest.py` | Reproducibility | Freeze data manifest with hashes |

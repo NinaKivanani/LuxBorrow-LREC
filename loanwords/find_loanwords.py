@@ -21,7 +21,7 @@ LANG_COLS = {
 
 MIN_LEMMA_LENGTH = 4
 DATA_DIR = Path("loanwords/data")
-OUTPUT_DIR = Path("loanwords/output")
+OUTPUT_DIR = Path("resources")
 EXCLUDE_CATEGORIES = {
     'PLANTE', 'MUSEKSINSTRUMENT', 'CHEEMESCHT-ELEMENT',
     'MARKENNUMM', 'WARUNG', 'NOM-DE-LIEU', 'MOOSSEENHEET', 'AWUNNER'
@@ -356,6 +356,29 @@ def run_manual_ops(matches: List[Dict], df: pd.DataFrame):
                     "loan_languages": [lang], "lux_synonyms": []
                 })
 
+def build_synonym_pairs(matches, lod_df, output_path="loanwords/loanword_synonym_pairs.csv"):
+    matches_df = pd.DataFrame(matches)
+    matches_df = matches_df[matches_df['lux_synonyms'].apply(lambda syns: len(syns) > 0)]
+
+    synonym_pairs = []
+    for _, row in matches_df.iterrows():
+        n_word_meanings = sum(lod_df['Lemma'].eq(row['lemma']))
+        if n_word_meanings == 1:
+            for syn in row['lux_synonyms']:
+                if sum(lod_df['Lemma'].eq(syn)) == 1:
+                    loan_language = row['loan_languages'][0] if len(row['loan_languages']) == 1 else 'MULTI'
+                    synonym_pairs.append((row['lemma'], syn, loan_language, row['part_of_speech']))
+
+    synonym_pairs = pd.DataFrame(
+        synonym_pairs,
+        columns=['loanword', 'synonym', 'loan_language', 'part_of_speech']
+    ).drop_duplicates()
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        synonym_pairs.to_csv(f, index=False)
+
+    return synonym_pairs
+
 # -----------------------------
 # Execution
 # -----------------------------
@@ -374,3 +397,5 @@ if __name__ == "__main__":
     with open(OUTPUT_DIR / "lux_loanwords.json", "w", encoding="utf-8") as f:
         json.dump(loan_matches, f, ensure_ascii=False, indent=4)
 
+    # Build Synonym Pairs
+    build_synonym_pairs(loan_matches, lod_df, OUTPUT_DIR / "loanword_synonym_pairs.csv")
