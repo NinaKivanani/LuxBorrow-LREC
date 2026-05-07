@@ -1,3 +1,11 @@
+# Visualization and table scripts (local only, not part of core pipeline)
+scripts/09_make_plots.py
+scripts/09b_openlid_plots.py
+scripts/10_make_rq1_tables.py
+scripts/13_plot_synonym_trends.py
+scripts/14_publication_plots.py
+scripts/15_pipeline_flow_visualization.py
+
 # Raw data - not redistributed (RTL copyright)
 data/rtl_raw/
 data/processed/
