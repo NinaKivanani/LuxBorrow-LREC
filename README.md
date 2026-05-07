@@ -278,9 +278,9 @@ non-commercial scientific research.
 @inproceedings{hosseini-kivanani-philippy-2026-luxborrow,
   title     = {{LuxBorrow}: From Pompier to Pompjee, Tracing Borrowing in {L}uxembourgish},
   author    = {Hosseini-Kivanani, Nina and Philippy, Fred},
-  booktitle = {Proceedings of LREC-COLING 2026},
+  booktitle = {Proceedings of LREC 2026},
   year      = {2026},
-  address   = {Torino, Italy},
+  address   = {Palma de Mallorca, Spain},
 }
 ```
 
