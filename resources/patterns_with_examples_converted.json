@@ -1,0 +1,515 @@
+[
+  {
+    "pattern": "aa→a",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "aacht",
+        "acht"
+      ],
+      [
+        "Aacht",
+        "Acht"
+      ],
+      [
+        "Aachtel",
+        "Achtel"
+      ],
+      [
+        "aachtfach",
+        "achtfach"
+      ],
+      [
+        "Aadler",
+        "Adler"
+      ]
+    ]
+  },
+  {
+    "pattern": "exact",
+    "type": "lexicon",
+    "donor": "DE",
+    "examples": [
+      [
+        "Abat-jour",
+        "abat-jour"
+      ],
+      [
+        "Abattement",
+        "abattement"
+      ],
+      [
+        "Abbé",
+        "abbé"
+      ],
+      [
+        "Abenteuer",
+        "Abenteuer"
+      ],
+      [
+        "Abenteurer",
+        "Abenteurer"
+      ]
+    ]
+  },
+  {
+    "pattern": "ech→ich",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "abenteuerlech",
+        "abenteuerlich"
+      ],
+      [
+        "absichtlech",
+        "absichtlich"
+      ],
+      [
+        "amtlech",
+        "amtlich"
+      ],
+      [
+        "anschaulech",
+        "anschaulich"
+      ],
+      [
+        "appetitlech",
+        "appetitlich"
+      ]
+    ]
+  },
+  {
+    "pattern": "éieren→er",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "abîméieren",
+        "abîmer"
+      ],
+      [
+        "abordéieren",
+        "aborder"
+      ],
+      [
+        "acceleréieren",
+        "accelerer"
+      ],
+      [
+        "accentuéieren",
+        "accentuer"
+      ],
+      [
+        "accordéieren",
+        "accorder"
+      ]
+    ]
+  },
+  {
+    "pattern": "el→le",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "abordabel",
+        "abordable"
+      ],
+      [
+        "accessibel",
+        "accessible"
+      ],
+      [
+        "agreabel",
+        "agreable"
+      ],
+      [
+        "Apostel",
+        "Apostle"
+      ],
+      [
+        "Bibel",
+        "Bible"
+      ]
+    ]
+  },
+  {
+    "pattern": "+e",
+    "type": "orth",
+    "donor": "DE",
+    "examples": [
+      [
+        "Absinth",
+        "absinthe"
+      ],
+      [
+        "absolut",
+        "absolute"
+      ],
+      [
+        "absurd",
+        "absurde"
+      ],
+      [
+        "Abus",
+        "abuse"
+      ],
+      [
+        "abusiv",
+        "abusive"
+      ]
+    ]
+  },
+  {
+    "pattern": "oun→on",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Absolutioun",
+        "Absolution"
+      ],
+      [
+        "Abstentioun",
+        "abstention"
+      ],
+      [
+        "Abstraktioun",
+        "Abstraktion"
+      ],
+      [
+        "Acceleratioun",
+        "acceleration"
+      ],
+      [
+        "Accumulatioun",
+        "accumulation"
+      ]
+    ]
+  },
+  {
+    "pattern": "éieren→ieren",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "absolvéieren",
+        "absolvieren"
+      ],
+      [
+        "adaptéieren",
+        "adaptieren"
+      ],
+      [
+        "addéieren",
+        "addieren"
+      ],
+      [
+        "adoptéieren",
+        "adoptieren"
+      ],
+      [
+        "akkreditéieren",
+        "akkreditieren"
+      ]
+    ]
+  },
+  {
+    "pattern": "oun→on + k→c",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Abstraktioun",
+        "abstraction"
+      ],
+      [
+        "Affektatioun",
+        "affectation"
+      ],
+      [
+        "Akkreditatioun",
+        "accreditation"
+      ],
+      [
+        "Aktioun",
+        "action"
+      ],
+      [
+        "Allokatioun",
+        "allocation"
+      ]
+    ]
+  },
+  {
+    "pattern": "éit→é",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Absurditéit",
+        "absurdité"
+      ],
+      [
+        "Accessibilitéit",
+        "accessibilité"
+      ],
+      [
+        "Affinitéit",
+        "affinité"
+      ],
+      [
+        "Anciennetéit",
+        "ancienneté"
+      ],
+      [
+        "Animositéit",
+        "animosité"
+      ]
+    ]
+  },
+  {
+    "pattern": "éiert→é",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "accidentéiert",
+        "accidenté"
+      ],
+      [
+        "alliéiert",
+        "allié"
+      ],
+      [
+        "arméiert",
+        "armé"
+      ],
+      [
+        "avancéiert",
+        "avancé"
+      ],
+      [
+        "blaséiert",
+        "blasé"
+      ]
+    ]
+  },
+  {
+    "pattern": "esch→isch",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "afghanesch",
+        "afghanisch"
+      ],
+      [
+        "afrikanesch",
+        "afrikanisch"
+      ],
+      [
+        "ägyptesch",
+        "ägyptisch"
+      ],
+      [
+        "akribesch",
+        "akribisch"
+      ],
+      [
+        "akrobatesch",
+        "akrobatisch"
+      ]
+    ]
+  },
+  {
+    "pattern": "ee→e",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Akadeemiker",
+        "Akademiker"
+      ],
+      [
+        "Akadeemikerin",
+        "Akademikerin"
+      ],
+      [
+        "Algeerier",
+        "Algerier"
+      ],
+      [
+        "Algeerierin",
+        "Algerierin"
+      ],
+      [
+        "Allergeen",
+        "Allergen"
+      ]
+    ]
+  },
+  {
+    "pattern": "éiert→iert",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "alliéiert",
+        "alliiert"
+      ],
+      [
+        "blaséiert",
+        "blasiert"
+      ],
+      [
+        "bornéiert",
+        "borniert"
+      ],
+      [
+        "desinteresséiert",
+        "desinteressiert"
+      ],
+      [
+        "detailléiert",
+        "detailliert"
+      ]
+    ]
+  },
+  {
+    "pattern": "tt→t",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Antisemitt",
+        "Antisemit"
+      ],
+      [
+        "Antisemittin",
+        "Antisemitin"
+      ],
+      [
+        "Bandittin",
+        "Banditin"
+      ],
+      [
+        "Blutt",
+        "Blut"
+      ],
+      [
+        "Blutterguss",
+        "Bluterguss"
+      ]
+    ]
+  },
+  {
+    "pattern": "ck→que",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Attack",
+        "attaque"
+      ],
+      [
+        "Barock",
+        "baroque"
+      ],
+      [
+        "barock",
+        "baroque"
+      ],
+      [
+        "Lack",
+        "laque"
+      ],
+      [
+        "Pick",
+        "pique"
+      ]
+    ]
+  },
+  {
+    "pattern": "ii→i",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "ausriichten",
+        "ausrichten"
+      ],
+      [
+        "Ausriichtung",
+        "Ausrichtung"
+      ],
+      [
+        "Aussiicht",
+        "Aussicht"
+      ],
+      [
+        "Aussiichtspunkt",
+        "Aussichtspunkt"
+      ],
+      [
+        "beliichten",
+        "belichten"
+      ]
+    ]
+  },
+  {
+    "pattern": "er→eur",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Autostopper",
+        "autostoppeur"
+      ],
+      [
+        "Boxer",
+        "boxeur"
+      ],
+      [
+        "Camper",
+        "campeur"
+      ],
+      [
+        "Chauffer",
+        "chauffeur"
+      ],
+      [
+        "Chefredakter",
+        "Chefredakteur"
+      ]
+    ]
+  },
+  {
+    "pattern": "E→É",
+    "type": "morph",
+    "donor": "DE",
+    "examples": [
+      [
+        "Ecart",
+        "écart"
+      ],
+      [
+        "Echange",
+        "échange"
+      ],
+      [
+        "Echangeur",
+        "échangeur"
+      ],
+      [
+        "Echantillon",
+        "échantillon"
+      ],
+      [
+        "Echec",
+        "échec"
+      ]
+    ]
+  }
+]

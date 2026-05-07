@@ -1,0 +1,3180 @@
+[
+  {
+    "loan": "Abat-jour",
+    "syn": "Luuchteschierm",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "abîméieren",
+    "syn": "beschiedegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "abordabel",
+    "syn": "erschwénglech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "abordéieren",
+    "syn": "uschneiden",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Absicht",
+    "syn": "Intentioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Abstentioun",
+    "syn": "Enthalung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "accordéieren",
+    "syn": "bewëllegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Account",
+    "syn": "Benotzerkont",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Actrice",
+    "syn": "Schauspillerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "ADHS",
+    "syn": "Opmierksamkeetsdefizit-Hyperaktivitéitsstéierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "adipös",
+    "syn": "fettleibeg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Affiliatioun",
+    "syn": "Memberschaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "After",
+    "syn": "Anus",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Agrafeuse",
+    "syn": "Bostitch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "agreabel",
+    "syn": "angeneem",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Airline",
+    "syn": "Fluchgesellschaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Ajustement",
+    "syn": "Upassung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Akribie",
+    "syn": "Genauegkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Alimentatioun",
+    "syn": "Ernärung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Allokatioun",
+    "syn": "Bäihëllef",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Allokatioun",
+    "syn": "Zoulag",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Alpinistin",
+    "syn": "Biergsteigerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Ameis",
+    "syn": "Seejomes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Amende",
+    "syn": "Geldbouss",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Amende",
+    "syn": "Geldstrof",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Anciennetéit",
+    "syn": "Déngschtalter",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Anemie",
+    "syn": "Bluttaarmut",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Antisemitismus",
+    "syn": "Juddefeindlechkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Apnoe",
+    "syn": "Otemstëllstand",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "approximativ",
+    "syn": "ongeféier",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Arrhythmie",
+    "syn": "Häerzrhythmusstéierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Arroganz",
+    "syn": "Iwwerhieflechkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Artistin",
+    "syn": "Kënschtlerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Asphalt",
+    "syn": "Makadamm",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Asylant",
+    "syn": "Demandeur d'asile",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Asylantin",
+    "syn": "Demandeuse d'asile",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Atomenergie",
+    "syn": "Atomkraaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Attestatioun",
+    "syn": "Bescheinegung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "attestéieren",
+    "syn": "bescheinegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Augmentatioun",
+    "syn": "Erhéijung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Aula",
+    "syn": "Festsall",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Ausrüstung",
+    "syn": "Ekipement",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Auswanderer",
+    "syn": "Emigrant",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Auswanderung",
+    "syn": "Emigratioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Auswanderungsland",
+    "syn": "Emigratiounsland",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Ausweisung",
+    "syn": "Expulsioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Autocollant",
+    "syn": "Pechbild",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Avantage",
+    "syn": "Virdeel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "avantagéieren",
+    "syn": "bevirdeelegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Avion",
+    "syn": "Fliger",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "avortéieren",
+    "syn": "ofdreiwen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Avortement",
+    "syn": "Ofdreiwung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Balluchon",
+    "syn": "Bëndel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Bärlauch",
+    "syn": "Heckeknuewelek",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "beanstanden",
+    "syn": "bemängelen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Bedenken",
+    "syn": "Zweiwel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Begrenzung",
+    "syn": "Limitatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "beklauen",
+    "syn": "bestielen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Benefice",
+    "syn": "Boni",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "benevole",
+    "syn": "éierenamtlech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Besteck",
+    "syn": "Läffelsgeschier",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Bettwäsch",
+    "syn": "Bettgezei",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Bibliografie",
+    "syn": "Literaturverzeechnes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Bistro",
+    "syn": "Wiertschaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "bizarre",
+    "syn": "bosseg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "bizarre",
+    "syn": "gelungen",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Blödian",
+    "syn": "Blani",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Blödian",
+    "syn": "Dabo",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Blödian",
+    "syn": "Dëlpes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Blödian",
+    "syn": "Dräibiz",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Blödian",
+    "syn": "Topert",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Bonbon",
+    "syn": "Kamell",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Bonne",
+    "syn": "Déngschtmeedchen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Bouche-à-bouche",
+    "syn": "Mond-zu-Mond-Beootmung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Bremsbelag",
+    "syn": "Bremsplackett",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Bushaltestell",
+    "syn": "Busarrêt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Café",
+    "syn": "Wiertschaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Camionnette",
+    "syn": "Liwwerwon",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Canicule",
+    "syn": "Hëtztwell",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Cash",
+    "syn": "Boergeld",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Cauchemar",
+    "syn": "Albdram",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Cepage",
+    "syn": "Riefzort",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "certifiéieren",
+    "syn": "bescheinegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Cesarienne",
+    "syn": "Keeserschnëtt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Championnat",
+    "syn": "Meeschterschaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Chercheur",
+    "syn": "Fuerscher",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Chercheuse",
+    "syn": "Fuerscherin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Chignon",
+    "syn": "Tuppi",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Chimist",
+    "syn": "Cheemiker",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "chroméiert",
+    "syn": "verchroomt",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Chronometer",
+    "syn": "Stoppauer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Cicatrice",
+    "syn": "Läinzeechen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Clochard",
+    "syn": "Obdachlosen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "completéieren",
+    "syn": "vervollstännegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Confederatioun",
+    "syn": "Daachverband",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Confidentialitéit",
+    "syn": "Vertraulechkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "confidentiel",
+    "syn": "vertraulech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "confirméieren",
+    "syn": "bestätegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "confisquéieren",
+    "syn": "beschlagnamen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Conjugaisoun",
+    "syn": "Konjugatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "consideréieren",
+    "syn": "berücksichtegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Contraire",
+    "syn": "Géigendeel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Coussin",
+    "syn": "Këssen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Couvre-feu",
+    "syn": "Ausgangsspär",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "culottéiert",
+    "syn": "affrontéiert",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Cystite",
+    "syn": "Blosenentzündung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Debarras",
+    "syn": "Ofstellraum",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "decisiv",
+    "syn": "entscheedend",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Defaite",
+    "syn": "Nidderlag",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "demissionéieren",
+    "syn": "zerécktrieden",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "demoléieren",
+    "syn": "futti schloen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Demonstrantin",
+    "syn": "Manifestantin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Denkmal",
+    "syn": "Monument",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Deontologie",
+    "syn": "Beruffseethik",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Derangement",
+    "syn": "Stéierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Dermatolog",
+    "syn": "Hautdokter",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Dermatologin",
+    "syn": "Hautdoktesch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "desagreabel",
+    "syn": "onangeneem",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Desavantage",
+    "syn": "Nodeel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Destitutioun",
+    "syn": "Amtsentheebung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Detail",
+    "syn": "Eenzelheet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Deviatioun",
+    "syn": "Ëmleedung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Dichter",
+    "syn": "Poeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Dichterin",
+    "syn": "Poeetin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Dictionnaire",
+    "syn": "Wierderbuch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Dieteticien",
+    "syn": "Ernärungsberoder",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Dingwort",
+    "syn": "Substantiv",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Diversitéit",
+    "syn": "Villfalt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "douéiert",
+    "syn": "begaabt",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "douéiert",
+    "syn": "talentéiert",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Doute",
+    "syn": "Zweiwel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "downloaden",
+    "syn": "eroflueden",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Drei",
+    "syn": "Dräi",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "E-Bike",
+    "syn": "Elektrovëlo",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Ebola",
+    "syn": "Ebolaféiwer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Echeance",
+    "syn": "Stéchdag",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Echec",
+    "syn": "Feelschlag",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Echec",
+    "syn": "Mësserfolleg",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Eins",
+    "syn": "Eent",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Elektrokardiogramm",
+    "syn": "EKG",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Elster",
+    "syn": "Kréi",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "E-Mail",
+    "syn": "Mail",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "embêtéieren",
+    "syn": "behellegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "emigréieren",
+    "syn": "auswanderen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Enthusiasmus",
+    "syn": "Begeeschterung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "entkommen",
+    "syn": "fortlafen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Entlüftung",
+    "syn": "Ventilatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Environnement",
+    "syn": "Ëmwelt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Eremit",
+    "syn": "Einsiidler",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Erstaunen",
+    "syn": "Verwonnerung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Etagère",
+    "syn": "Kréibänk",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Evenement",
+    "syn": "Ereegnes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "evoquéieren",
+    "syn": "opwerfen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "exageréieren",
+    "syn": "iwwerdreiwen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "exakt",
+    "syn": "genee",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Exploratioun",
+    "syn": "Erfuerschung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "exploréieren",
+    "syn": "erfuerschen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Exposé",
+    "syn": "Virtrag",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "exposéieren",
+    "syn": "duerleeën",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "expropriéieren",
+    "syn": "enteegnen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "extravagant",
+    "syn": "ausgefalen",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Fachjargon",
+    "syn": "Fachsprooch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Fait",
+    "syn": "Tatsaach",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Fakt",
+    "syn": "Tatsaach",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Faubourg",
+    "syn": "Viruert",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Faveur",
+    "syn": "Gefalen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Feedback",
+    "syn": "Réckmeldung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "felicitéieren",
+    "syn": "gratuléieren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Festivitéit",
+    "syn": "Festlechkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Ficelle",
+    "syn": "Schnouer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "filtréieren",
+    "syn": "filteren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Fischstäbchen",
+    "syn": "Fishstick",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Fitnessstudio",
+    "syn": "Fitnesszenter",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Fondatioun",
+    "syn": "Stëftung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "forcéiert",
+    "syn": "gezwongen",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "formell",
+    "syn": "ausdrécklech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "formidabel",
+    "syn": "fantastesch",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Foulard",
+    "syn": "Fischi",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Freak",
+    "syn": "Fan",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Fric",
+    "syn": "Kitten",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Frigo",
+    "syn": "Äisschaf",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Frigo",
+    "syn": "Frigidaire",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Frust",
+    "syn": "Frustratioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Fusel",
+    "syn": "Schnicki",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "gaffen",
+    "syn": "afen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gardien",
+    "syn": "Wiechter",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Gardienne",
+    "syn": "Wiechterin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Gastroskopie",
+    "syn": "Mospigelung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gebärmutter",
+    "syn": "Matrice",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gebärmutter",
+    "syn": "Uterus",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gedenkfeier",
+    "syn": "Commemoratiounsfeier",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gefäll",
+    "syn": "Schréi",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gehalt",
+    "syn": "Pai",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "geheimnisvoll",
+    "syn": "mysteriéis",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Geheimnummer",
+    "syn": "Secretsnummer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Geldautomat",
+    "syn": "Bancomat",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Geldwäsch",
+    "syn": "Blanchiment",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "generaliséieren",
+    "syn": "verallgemengeren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Genossenschaft",
+    "syn": "Kooperativ",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Geschenk",
+    "syn": "Kaddo",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Geschwätz",
+    "syn": "Gerieds",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Giersch",
+    "syn": "Geessefouss",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Glasfasernetz",
+    "syn": "Glasfaserreseau",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Grafie",
+    "syn": "Schreifweis",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Grand-Duc",
+    "syn": "Groussherzog",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Grand-Duché",
+    "syn": "Groussherzogtum",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Gratulatioun",
+    "syn": "Felicitatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Grillfest",
+    "syn": "Barbecue",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Grillparty",
+    "syn": "Barbecue",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Gurt",
+    "syn": "Sécherheetsgurt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hämatom",
+    "syn": "Blutterguss",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hämophilie",
+    "syn": "Bluterkrankheet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "handicapéiert",
+    "syn": "behënnert",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Harddisk",
+    "syn": "Festplack",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hausse",
+    "syn": "Erhéijung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Hauttumor",
+    "syn": "Hauttumeur",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hermelin",
+    "syn": "Grousst Wisel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Herrscherhaus",
+    "syn": "Dynastie",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Herzbeutelentzündung",
+    "syn": "Perikarditt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hörbuch",
+    "syn": "Audiobuch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hyperthyreos",
+    "syn": "Schilddrüseniwwerfunktioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hypoglycemie",
+    "syn": "Ënnerzocker",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Hypokrisie",
+    "syn": "Schäinhellegkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Hypothyreos",
+    "syn": "Schilddrüsenënnerfunktioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Igel",
+    "syn": "Däreldéier",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Igel",
+    "syn": "Kéiseker",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Imker",
+    "syn": "Beienziichter",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Imkerin",
+    "syn": "Beienziichterin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Immigrantin",
+    "syn": "Awanderin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "immigréieren",
+    "syn": "awanderen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Imparfait",
+    "syn": "Preteritum",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Imperfekt",
+    "syn": "Preteritum",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "imposéieren",
+    "syn": "virschreiwen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "impressionéieren",
+    "syn": "beandrocken",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "impressionnant",
+    "syn": "beandrockend",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "indemniséieren",
+    "syn": "entschiedegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Indemnitéit",
+    "syn": "Entschiedegung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Infektiounsrisiko",
+    "syn": "Infektiounsgefor",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Infirmier",
+    "syn": "Krankefleeger",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Infirmière",
+    "syn": "Krankeschwëster",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Injektioun",
+    "syn": "Asprëtzung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Inlineskate",
+    "syn": "Rollerblade",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Inscriptioun",
+    "syn": "Aschreiwung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Insektizid",
+    "syn": "Insektegëft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Intelligenz",
+    "syn": "Gescheitheet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "intersex",
+    "syn": "intergeschlechtlech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "intersexuell",
+    "syn": "intergeschlechtlech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "intimidéieren",
+    "syn": "aschüchteren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "irresponsabel",
+    "syn": "onverantwortlech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Jardinière",
+    "syn": "Blummebac",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Jardinière",
+    "syn": "Blummekëscht",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Jazz",
+    "syn": "Jazzmusek",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "jugéieren",
+    "syn": "beurteelen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Kaff",
+    "syn": "Bauerennascht",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kaff",
+    "syn": "Kouduerf",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kamill",
+    "syn": "Kaméileblumm",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kardiolog",
+    "syn": "Häerzdokter",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kardiologin",
+    "syn": "Häerzdoktesch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Karussell",
+    "syn": "Päerderchersspill",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Katalog",
+    "syn": "Verzeechnes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "kidnappen",
+    "syn": "entféieren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kidnapper",
+    "syn": "Entféierer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Kidnapping",
+    "syn": "Entféierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Kittchen",
+    "syn": "Bing",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kittchen",
+    "syn": "Klemmes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "klauen",
+    "syn": "stielen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Klimawandel",
+    "syn": "Klimawiessel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kofferradio",
+    "syn": "Transisterradio",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kohäsioun",
+    "syn": "Zesummenhalt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Koloskopie",
+    "syn": "Daarmspigelung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kontur",
+    "syn": "Ëmrëss",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Konzeptioun",
+    "syn": "Opfaassung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Korruptioun",
+    "syn": "Bestiechung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "kränken",
+    "syn": "toufen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kürbis",
+    "syn": "Kalbass",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kurkuma",
+    "syn": "Gielwuerzel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Kuss",
+    "syn": "Bees",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Laktos",
+    "syn": "Mëllechzocker",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Langage",
+    "syn": "Ausdrocksweis",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "längen",
+    "syn": "verdënnen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Leitartikel",
+    "syn": "Editorial",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Libell",
+    "syn": "Waasserjoffer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Librairie",
+    "syn": "Bicherbuttek",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Limett",
+    "syn": "Limoun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Linguistik",
+    "syn": "Sproochwëssenschaft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Linguistin",
+    "syn": "Sproochwëssenschaftlerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Link",
+    "syn": "Verknëppung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Livreur",
+    "syn": "Liwwerant",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Livreuse",
+    "syn": "Liwwerantin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Lokalanästhesie",
+    "syn": "Lokalnarkos",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Luftikus",
+    "syn": "Litti",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Maikäfer",
+    "syn": "Meekiewerlek",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Malentendu",
+    "syn": "Mëssverständnes",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Marchandise",
+    "syn": "Wuer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Martyrium",
+    "syn": "Leidenswee",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Mediateur",
+    "syn": "Vermëttler",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Mediatrice",
+    "syn": "Vermëttlerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "menacéieren",
+    "syn": "bedroen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Menstruatiounscup",
+    "syn": "Menstruatiounstaass",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "mentionéieren",
+    "syn": "erwänen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Mesure",
+    "syn": "Moossnam",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Metabolismus",
+    "syn": "Stoffwiessel",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Meteorolog",
+    "syn": "Wiederspezialist",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "minimiséieren",
+    "syn": "bagatelliséieren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Mittelohrentzündung",
+    "syn": "Otitt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "momentan",
+    "syn": "ablécklech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "momentan",
+    "syn": "därzäit",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Mondialisatioun",
+    "syn": "Globaliséierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Motocyclist",
+    "syn": "Motorradfuerer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "mutiléieren",
+    "syn": "verstümmelen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Nager",
+    "syn": "Nagedéier",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Narb",
+    "syn": "Läinzeechen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Narkolepsie",
+    "syn": "Schlofkrankheet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Navet",
+    "syn": "Ribb",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Nippel",
+    "syn": "Broschtwaarz",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Nomen",
+    "syn": "Substantiv",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Numerisatioun",
+    "syn": "Digitaliséierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Nuque",
+    "syn": "Genéck",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Nuque",
+    "syn": "Halsgenéck",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Obduktioun",
+    "syn": "Autopsie",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Oberfläch",
+    "syn": "Uewerfläch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "obèse",
+    "syn": "fettleibeg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Ombudsmann",
+    "syn": "Knoutermann",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Orthodontie",
+    "syn": "Kiferorthopedie",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Outfit",
+    "syn": "Dress",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Pastinak",
+    "syn": "Péitener",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Pater",
+    "syn": "Mënch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Pâtissier",
+    "syn": "Zockerbäcker",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Patronne",
+    "syn": "Cheffin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Pedagogie",
+    "syn": "Pedagogik",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Periduralanästhesie",
+    "syn": "Peridurale",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Permanence",
+    "syn": "Bereetschaftsdéngscht",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "phenomenal",
+    "syn": "aussergewéinlech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Phoque",
+    "syn": "Séihond",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "picobello",
+    "syn": "impeccabel",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Pingpong",
+    "syn": "Dëschtennis",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "OTHER"
+  },
+  {
+    "loan": "plafonéieren",
+    "syn": "deckelen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Plongeon",
+    "syn": "Kappsprong",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Pluriel",
+    "syn": "Meerzal",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Pommad",
+    "syn": "Sallef",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Popularitéit",
+    "syn": "Beléiftheet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Potier",
+    "syn": "Aulebäcker",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Presidence",
+    "syn": "Virsëtz",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "prima",
+    "syn": "wonnerbar",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Privatsammlung",
+    "syn": "Privatkollektioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "probabel",
+    "syn": "warscheinlech",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "profanéieren",
+    "syn": "schännen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Progrès",
+    "syn": "Fortschrëtt",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Prophylax",
+    "syn": "Virbeugung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Quälerei",
+    "syn": "Mësshandlung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Questionnaire",
+    "syn": "Froebou",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "rapid",
+    "syn": "huerteg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "rapid",
+    "syn": "schëtzeg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Rapiditéit",
+    "syn": "Schnellegkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "rasant",
+    "syn": "schëtzeg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Rauchmelder",
+    "syn": "Dampmelder",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "recommandéieren",
+    "syn": "empfielen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "redigéieren",
+    "syn": "verfaassen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Rennstreck",
+    "syn": "Rennpist",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Renommée",
+    "syn": "Reputatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Renommée",
+    "syn": "Ruff",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Representant",
+    "syn": "Vertrieder",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Representatioun",
+    "syn": "Opféierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Reproche",
+    "syn": "Virworf",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Residence",
+    "syn": "Appartementshaus",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Revolt",
+    "syn": "Opstand",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Rheuma",
+    "syn": "Rematissem",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "riskant",
+    "syn": "riskéiert",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "rivaliséieren",
+    "syn": "konkurréieren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Rock",
+    "syn": "Rockmusek",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Salaire",
+    "syn": "Pai",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Sanitäterin",
+    "syn": "Secouristin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Sarg",
+    "syn": "Doudelued",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schaffnerin",
+    "syn": "Kontrollerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schätzung",
+    "syn": "Estimatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schauer",
+    "syn": "Schluet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schildkröt",
+    "syn": "Deckelsmouk",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "schnallen",
+    "syn": "begräifen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "schnallen",
+    "syn": "bekäppen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schuppenflecht",
+    "syn": "Psoriasis",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schutzimpfung",
+    "syn": "Vaccinatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Schwankung",
+    "syn": "Fluktuatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Selbstmord",
+    "syn": "Suicide",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Sensualitéit",
+    "syn": "Sënnlechkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "sexy",
+    "syn": "lackeleg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Sieste",
+    "syn": "Mëttesrascht",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Singulier",
+    "syn": "Einzal",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "skurril",
+    "syn": "bosseg",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "skurril",
+    "syn": "gelungen",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Sondage",
+    "syn": "Ëmfro",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Song",
+    "syn": "Lidd",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Sonnenfinsternis",
+    "syn": "Sonnendäischtert",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "soupçonéieren",
+    "syn": "verdächtegen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Souterrain",
+    "syn": "Unterfürung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Starrkrampf",
+    "syn": "Tetanus",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Stenokardie",
+    "syn": "Angine de poitrine",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Sternschnupp",
+    "syn": "Stäreschnäiz",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Sticker",
+    "syn": "Pechbild",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Successeur",
+    "syn": "Nofollger",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Sucette",
+    "syn": "Lutsch",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "surveilléieren",
+    "syn": "iwwerwaachen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "tadellos",
+    "syn": "impeccabel",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Tankstell",
+    "syn": "Bensinnsstatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Tattoo",
+    "syn": "Tätowéierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Telecommande",
+    "syn": "Fernsteierung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Tendinite",
+    "syn": "Seenenentzündung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Thymian",
+    "syn": "Teimerjännchen",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Tirebouchon",
+    "syn": "Stoppenzéier",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Tissu",
+    "syn": "Stoft",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "toasten",
+    "syn": "réischteren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Totalitéit",
+    "syn": "Gesamtheet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Tourette-Syndrom",
+    "syn": "Tourette",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Tournage",
+    "syn": "Dréiaarbechten",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Tournevis",
+    "syn": "Schrauwenzéier",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Trajet",
+    "syn": "Faart",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Trampel",
+    "syn": "Bëlles",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Transpositioun",
+    "syn": "Ëmsetzung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "treffend",
+    "syn": "pertinent",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "triéieren",
+    "syn": "sënneren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Tripper",
+    "syn": "Gonorrhoe",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Unanimitéit",
+    "syn": "Eestëmmegkeet",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "uniformiséieren",
+    "syn": "vereenheetlechen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "updaten",
+    "syn": "aktualiséieren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "urgent",
+    "syn": "dréngend",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "User",
+    "syn": "Benotzer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "EN"
+  },
+  {
+    "loan": "Userin",
+    "syn": "Benotzerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Utilisateur",
+    "syn": "Benotzer",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Utilisatrice",
+    "syn": "Benotzerin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Vagin",
+    "syn": "Scheed",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Verblödung",
+    "syn": "Verdommung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "verkacken",
+    "syn": "vermasselen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "vermeiden",
+    "syn": "verhënneren",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "vermurksen",
+    "syn": "verbrueden",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Vermutung",
+    "syn": "Suppositioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Verschwörung",
+    "syn": "Konspiratioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Verseuchung",
+    "syn": "Kontaminatioun",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "verwenden",
+    "syn": "benotzen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "vexéieren",
+    "syn": "toufen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Videosurveillance",
+    "syn": "Videoiwwerwaachung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Viol",
+    "syn": "Vergewaltegung",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "violett",
+    "syn": "mof",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Violonist",
+    "syn": "Geiist",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Violonistin",
+    "syn": "Geiistin",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Volant",
+    "syn": "Steierrad",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Vol-au-vent",
+    "syn": "Bouchée à la reine",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "FR"
+  },
+  {
+    "loan": "Weltall",
+    "syn": "All",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "zerquetschen",
+    "syn": "zerdrécken",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "zerquetschen",
+    "syn": "zerdretschen",
+    "meaning_id": "",
+    "part_of_speech": "VRB",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Zipperlein",
+    "syn": "Giicht",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Zugab",
+    "syn": "Bis",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Zutat",
+    "syn": "Ingredient",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "zwecklos",
+    "syn": "onnëtz",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "zwecklos",
+    "syn": "sënnlos",
+    "meaning_id": "",
+    "part_of_speech": "ADJ",
+    "loan_language": "DE"
+  },
+  {
+    "loan": "Zwei",
+    "syn": "Zwee",
+    "meaning_id": "",
+    "part_of_speech": "SUBST",
+    "loan_language": "DE"
+  }
+]

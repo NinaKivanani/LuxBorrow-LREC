@@ -1,0 +1,19 @@
+# Raw data - not redistributed (RTL copyright)
+data/rtl_raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.key

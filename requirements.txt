@@ -1,0 +1,16 @@
+# LuxBorrow LREC 2026 — Python requirements
+# Python 3.10–3.11 recommended
+
+# Core
+pyyaml>=6.0
+pandas>=2.0
+matplotlib>=3.8
+numpy>=1.26
+tqdm>=4.66
+
+# Optional: fast tokenization (used on HPC/SLURM, fallback to Python if missing)
+blingfire>=0.1.8
+
+# Optional: LLM-assisted LID (set USE_LID_LLM=1 to enable)
+langdetect>=1.0.9
+openai>=1.40.0

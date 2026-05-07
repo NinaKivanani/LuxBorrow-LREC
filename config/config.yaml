@@ -1,0 +1,35 @@
+paths:
+  # INPUT (using clean version without empty documents)  
+  raw_dir: "data/rtl_raw"
+
+  # OUTPUT ROOT
+  out_root: "data/processed/v1"
+
+  # OUTPUT SUBDIRS
+  manifests: "data/processed/v1/manifests"
+  logs:      "data/processed/v1/manifests"
+  out_raw:   "data/processed/v1/raw_jsonl"
+  out_tn:    "data/processed/v1/tn_jsonl"
+  out_metrics: "data/processed/v1/metrics"
+  tables:    "data/processed/v1/tables"
+  figures:   "data/processed/v1/figures"
+  
+  # BORROWING INDEX (for synonym analysis) - NOTE: This will be JSONL format
+  borrowing_index: "data/processed/v1/labels/borrowing_switch.jsonl"
+
+  # RESOURCES
+  pattern_file:   "resources/patterns_with_examples.json"
+  loanwords_json: "resources/lux_loanwords.ud.json"
+  loan_syn_pairs: "resources/loanword_synonyms_unique.json"
+
+
+# Plot configuration (no hard-coded values in code)
+plots:
+  reference_lines:
+    - month: "2020-01"
+      label: "Orthography reform (2020)"
+    - month: "2022-01"
+      label: "AI era (2022)"
+
+  # OPTIONAL (not used in tokenizer-only pipeline; kept for provenance)
+  udpipe_model: "data/models/udpipe_luxbank.udpipe"
