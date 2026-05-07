@@ -209,13 +209,6 @@ paths:
   pattern_file:     "resources/patterns_with_examples.json"
   loanwords_json:   "resources/lux_loanwords.ud.json"
   loan_syn_pairs:   "resources/loanword_synonyms_unique.json"
-
-plots:
-  reference_lines:
-    - month: "2020-01"
-      label: "Orthography reform (2020)"
-    - month: "2022-01"
-      label: "AI era (2022)"
 ```
 
 ---
