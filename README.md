@@ -3,8 +3,7 @@
 **LREC-COLING 2026** — Nina Hosseini-Kivanani & Fred Philippy  
 University of Luxembourg / Radio Télévision Luxembourg (RTL)
 
-> Code for preprocessing, language identification, borrowing detection, and reproduction  
-> of all figures and tables in the paper.  
+> Code for preprocessing, language identification, and borrowing detection.  
 > Dataset access: `ai@rtl.lu` · GitHub: [github.com/NinaKivanani/LuxBorrow-LREC](https://github.com/NinaKivanani/LuxBorrow-LREC)
 
 ---
@@ -28,43 +27,48 @@ donor for adapted borrowings (~97–99% per period).
 ## Repository Structure
 
 ```
-LuxBorrow_LREC2026/
-├── loanwords/                # Loanword detection
-│   ├── find_loanwords.py              
-│   └── utils.py
-│   └── data/
-├── scripts/                   # Full analysis pipeline (23 scripts)
-│   ├── 00_create_clean_json.py
-│   ├── 00b_convert_pairs_csv_to_json.py
-│   ├── 01_freeze_manifest.py
-│   ├── 02_compile_patterns.py
-│   ├── 03_preprocess_tokenize_rtljson.py
-│   ├── 03_preprocess_clean_jsonl.py
-│   ├── 04_lid_tokenlevel_llm_optimized.py
-│   ├── 05_text_normalize.py
-│   ├── 06_validate_freeze.py
-│   ├── 07_label_borrowing.py
-│   ├── 08_metrics_rq.py
-│   ├── 08b_openlid_metrics.py
-│   ├── 09_make_plots.py
-│   ├── 09b_openlid_plots.py
-│   ├── 10_make_rq1_tables.py
-│   ├── 11_rq3_borrowing_stats.py
-│   ├── 12_synonym_preference_timeseries.py
+LuxBorrow-LREC/
+├── loanwords/                           # Loanword detection pipeline
+│   ├── find_loanwords.py                ← main loanword detection script
+│   ├── utils.py                         ← helper functions
+│   └── data/                            ← input data for loanword detection
+│       ├── new_lod-art.xml              ← LOD dictionary export
+│       ├── loans_fr_to_de.txt
+│       ├── loans_fr_to_en.txt
+│       ├── loans_en_to_de.txt
+│       ├── loans_en_to_fr.txt
+│       ├── german_terms_from_high_german.txt
+│       ├── german_terms_from_middle_high_german.txt
+│       ├── manual_adds.txt              ← human annotation additions
+│       └── manual_removals.txt          ← human annotation removals
+├── scripts/                             # Corpus analysis pipeline
+│   ├── 00_create_clean_json.py          ← data cleaning and deduplication
+│   ├── 00b_convert_pairs_csv_to_json.py ← convert synonym pairs CSV → JSON
+│   ├── 01_freeze_manifest.py            ← freeze data manifest with hashes
+│   ├── 02_compile_patterns.py           ← compile morphological patterns
+│   ├── 03_preprocess_tokenize_rtljson.py← tokenize RTL JSON articles
+│   ├── 03_preprocess_clean_jsonl.py     ← clean JSONL preprocessing
+│   ├── 04_lid_tokenlevel_llm_optimized.py ← sentence + token-level LID
+│   ├── 05_text_normalize.py             ← text normalization
+│   ├── 06_validate_freeze.py            ← validate against frozen manifest
+│   ├── 07_label_borrowing.py            ← token borrowing labeling (RQ3)
+│   ├── 08_metrics_rq.py                 ← CMI/entropy/M-index (RQ1 + RQ4)
+│   ├── 08b_openlid_metrics.py           ← OpenLID code-switching metrics (RQ1 + RQ2)
+│   ├── 11_rq3_borrowing_stats.py        ← borrowing stats by donor/pattern (RQ3)
+│   ├── 12_synonym_preference_timeseries.py ← loan–native synonym competition (RQ4)
 │   ├── morph_gates.py                   ← morphological gate utilities
-│   ├── pattern_runtime.py               ← compiled pattern lookup
-│   └── run_all.py                       ← master runner
+│   ├── pattern_runtime.py               ← compiled pattern index lookup
+│   └── run_all.py                       ← master pipeline runner
 ├── config/
-│   └── config.yaml                      ← all paths and plot settings
+│   └── config.yaml                      ← all paths and settings
 ├── resources/
 │   ├── lux_loanwords.ud.json            ← loanword registry (7,796 entries)
 │   ├── patterns_with_examples.json      ← compiled morphological patterns
 │   ├── loanword_synonyms_unique.json    ← loanword–native synonym pairs
 │   └── loanword_synonym_pairs.csv
-├── data/
-│   ├── rtl_raw/                         ← (not distributed) RTL article JSON
-│   └── processed/v1/                    ← pipeline outputs
-└── README.md
+├── env.yaml                             ← conda environment
+├── requirements.txt                     ← pip dependencies
+└── LICENSE                              ← Apache-2.0
 ```
 
 ---
@@ -73,23 +77,20 @@ LuxBorrow_LREC2026/
 
 | Script | Section / RQ | Description |
 |--------|-------------|-------------|
-| `loanwords/find_loanwords.py` | §3.3 Loanword | Detect loanwords |
-| `00_create_clean_json.py` | §3.1 Dataset | Initial JSON cleaning and deduplication |
-| `00b_convert_pairs_csv_to_json.py` | §3.3 Loanword | Convert loanword–synonym CSV pairs to JSON |
-| `01_freeze_manifest.py` | Reproducibility | Freeze data manifest with hashes |
-| `02_compile_patterns.py` | §3.3 Loanword | Compile morphological/orthographic adaptation patterns from loanword registry |
-| `03_preprocess_tokenize_rtljson.py` | §3.2 LID | Tokenize RTL JSON articles |
-| `03_preprocess_clean_jsonl.py` | §3.2 LID | Clean JSONL format preprocessing |
-| `04_lid_tokenlevel_llm_optimized.py` | §3.2 LID | Sentence-level LID gate + token-level borrowing detection (OpenLID + length-adaptive threshold) |
-| `05_text_normalize.py` | §3.2 LID | Text normalization (orthographic variants) |
-| `06_validate_freeze.py` | Reproducibility | Validate outputs against frozen manifest |
-| `07_label_borrowing.py` | §3.3 / **RQ3** | Label tokens as Native / FR_LOAN / DE_LOAN / EN_LOAN using lexicon + morphological rules |
-| `08_metrics_rq.py` | **RQ1 + RQ4** | Compute CMI, Shannon entropy, M-Index by domain and temporal period → Table 1, Fig 4 |
-| `08b_openlid_metrics.py` | **RQ1 + RQ2** | OpenLID-based code-switching metrics → Table 2 |
-| `09_make_plots.py` | **RQ1–RQ4** | Core visualization: domain/period comparisons |
-| `09b_openlid_plots.py` | **RQ1 + RQ2** | OpenLID diachrony and language distribution plots |
-| `10_make_rq1_tables.py` | **RQ1** | Generate LaTeX Table 1 (CMI/entropy/M-index by domain+period) |
-| `11_rq3_borrowing_stats.py` | **RQ3** | Borrowing frequency by donor language, top patterns, adaptation type distribution → Fig 3 |
+| `loanwords/find_loanwords.py` | §3.3 | Detect loanwords from LOD using morphological/orthographic patterns, parallel borrowing resolution, and manual annotation |
+| `00_create_clean_json.py` | §3.1 | Raw RTL JSON cleaning and deduplication |
+| `00b_convert_pairs_csv_to_json.py` | §3.3 | One-time conversion of synonym pairs CSV to JSON (output already in `resources/`) |
+| `01_freeze_manifest.py` | Reproducibility | Freeze data manifest with checksums |
+| `02_compile_patterns.py` | §3.3 | Compile morphological/orthographic adaptation patterns from loanword registry |
+| `03_preprocess_tokenize_rtljson.py` | §3.2 | Tokenize RTL JSON articles |
+| `03_preprocess_clean_jsonl.py` | §3.2 | Clean JSONL format preprocessing |
+| `04_lid_tokenlevel_llm_optimized.py` | §3.2 | Sentence-level LID gate (OpenLID, length-adaptive threshold) + token-level borrowing detection |
+| `05_text_normalize.py` | §3.2 | Text normalization for orthographic variants |
+| `06_validate_freeze.py` | Reproducibility | Validate pipeline outputs against frozen manifest |
+| `07_label_borrowing.py` | §3.3 / **RQ3** | Label tokens as Native / FR_LOAN / DE_LOAN / EN_LOAN |
+| `08_metrics_rq.py` | **RQ1 + RQ4** | Compute CMI, Shannon entropy, M-Index by domain and temporal period |
+| `08b_openlid_metrics.py` | **RQ1 + RQ2** | OpenLID-based code-switching metrics |
+| `11_rq3_borrowing_stats.py` | **RQ3** | Borrowing frequency by donor language and adaptation pattern |
 | `12_synonym_preference_timeseries.py` | **RQ4** | Diachronic loan–native synonym competition time series |
 | `morph_gates.py` | §3.3 | Morphological gate helper (utility) |
 | `pattern_runtime.py` | §3.3 | Compiled pattern index for constant-time lookup (utility) |
