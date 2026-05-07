@@ -6,8 +6,6 @@ from pathlib import Path
 import yaml
 
 # Optional toggles (you can also use --only/--skip CLI flags)
-RUN_PLOTS   = os.environ.get("RUN_PLOTS", "1") == "1"   # figures for RQ4
-RUN_TABLES  = os.environ.get("RUN_TABLES","1") == "1"   # LaTeX tables for RQ1
 USE_LID_LLM = os.environ.get("USE_LID_LLM","0") == "1"  # enable LLM backup for uncertain OpenLID cases
 CONFIG_PATH = os.environ.get("CONFIG_PATH", "config/config.yaml")
 
@@ -57,14 +55,6 @@ STEPS = [
     ("rq3",      [*PYU, "scripts/11_rq3_borrowing_stats.py"]),  # RQ3 donor/top-forms
     ("syn",      [*PYU, "scripts/12_synonym_preference_timeseries.py"]),  # loan vs synonym
 ]
-
-if RUN_TABLES:
-    STEPS.append(("tables", [*PYU, "scripts/10_make_rq1_tables.py"]))  # optional LaTeX tables
-if RUN_PLOTS:
-    STEPS.append(("plots",  [*PYU, "scripts/09_make_plots.py"]))       # optional figures
-    STEPS.append(("openlid_plots", [*PYU, "scripts/09b_openlid_plots.py"]))  # OpenLID code-switching plots
-    # Skip syn_trends - only include if pairs are automatically discovered from data
-    STEPS.append(("pub_plots", [*PYU, "scripts/14_publication_plots.py"]))     # publication figures
 
 def run(cmd):
     env = os.environ.copy()

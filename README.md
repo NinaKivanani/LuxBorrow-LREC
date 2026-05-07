@@ -47,9 +47,6 @@ LuxBorrow_LREC2026/
 │   ├── 10_make_rq1_tables.py
 │   ├── 11_rq3_borrowing_stats.py
 │   ├── 12_synonym_preference_timeseries.py
-│   ├── 13_plot_synonym_trends.py
-│   ├── 14_publication_plots.py          ← paper figures (Fig 1, 4)
-│   ├── 15_pipeline_flow_visualization.py ← Fig 2 (Methodology diagram)
 │   ├── morph_gates.py                   ← morphological gate utilities
 │   ├── pattern_runtime.py               ← compiled pattern lookup
 │   └── run_all.py                       ← master runner
@@ -91,23 +88,9 @@ LuxBorrow_LREC2026/
 | `10_make_rq1_tables.py` | **RQ1** | Generate LaTeX Table 1 (CMI/entropy/M-index by domain+period) |
 | `11_rq3_borrowing_stats.py` | **RQ3** | Borrowing frequency by donor language, top patterns, adaptation type distribution → Fig 3 |
 | `12_synonym_preference_timeseries.py` | **RQ4** | Diachronic loan–native synonym competition time series |
-| `13_plot_synonym_trends.py` | **RQ4** | Visualize synonym competition trends |
-| `14_publication_plots.py` | **All RQs** | Publication-quality figures: Fig 1 (temporal distribution), Fig 4 (diachronic CS evolution) |
-| `15_pipeline_flow_visualization.py` | §3 | Pipeline flow diagram → Fig 2 (Methodology.pdf) |
 | `morph_gates.py` | §3.3 | Morphological gate helper (utility) |
 | `pattern_runtime.py` | §3.3 | Compiled pattern index for constant-time lookup (utility) |
 | `run_all.py` | — | Master runner; execute all or selected steps |
-
----
-
-## Paper Figures
-
-| Figure | File (in `Figures/`) | Generating Script |
-|--------|----------------------|-------------------|
-| Fig 1 — Temporal distribution of RTL articles | `temporal_distribution_main.png` | `14_publication_plots.py` |
-| Fig 2 — Methodology pipeline | `Methodology.pdf` | `15_pipeline_flow_visualization.py` |
-| Fig 3 — Borrowing pattern distribution | `top_specific_patterns.png` | `11_rq3_borrowing_stats.py` + `09_make_plots.py` |
-| Fig 4 — Diachronic CS evolution (RQ4) | `rq4_period_trend.png` | `14_publication_plots.py` |
 
 ---
 
@@ -183,9 +166,6 @@ python scripts/run_all.py --from label
 
 # Skip synonym steps
 python scripts/run_all.py --skip syn
-
-# Only generate publication figures
-python scripts/run_all.py --only pub_plots
 ```
 
 ### 5. Available step names
@@ -203,18 +183,12 @@ python scripts/run_all.py --only pub_plots
 | `openlid` | `08b_openlid_metrics.py` |
 | `rq3` | `11_rq3_borrowing_stats.py` |
 | `syn` | `12_synonym_preference_timeseries.py` |
-| `tables` | `10_make_rq1_tables.py` |
-| `plots` | `09_make_plots.py` |
-| `openlid_plots` | `09b_openlid_plots.py` |
-| `pub_plots` | `14_publication_plots.py` |
 
 ### 6. Environment variables
 
 | Variable | Default | Effect |
 |----------|---------|--------|
 | `CONFIG_PATH` | `config/config.yaml` | Path to config file |
-| `RUN_PLOTS` | `1` | `0` to skip all figure generation |
-| `RUN_TABLES` | `1` | `0` to skip LaTeX table generation |
 | `USE_LID_LLM` | `0` | `1` to enable OpenAI LLM backup for uncertain LID cases |
 
 ---
